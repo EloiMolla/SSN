@@ -32,7 +32,7 @@ print (mu)
 
 """rang de valors de mida"""
 
-a = np.linspace(1e-9, 10e-9, 10) # de 100nm a 500nm comprenent 10 valors distribuits entre la mida minima i la maxima
+a = np.linspace(1e-9, 10e-9, 10) # de 1nm a 10nm comprenent 10 valors distribuits entre la mida minima i la maxima
 
 """calcul de l'energia en funcio de a"""
 
